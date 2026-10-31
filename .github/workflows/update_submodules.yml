@@ -1,0 +1,39 @@
+
+name: Update Submodules
+
+on:
+ schedule:
+    - cron: '17 05 * * *'
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout top-level repo
+        uses: actions/checkout@v6
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update submodules to latest
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+
+          git submodule foreach '
+            git fetch origin
+            branch=$(git config -f $toplevel/.gitmodules submodule.$name.branch || echo main)
+            git checkout origin/$branch
+          '
+
+          git add .
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Automatically pulled submodules"
+          git push origin main
