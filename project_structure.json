@@ -3,5 +3,13 @@
     "name": "CUWS FPGA talk",
     "description": "Files for presentation to CUWS in November 2026",
     "url": "https://github.com/m0wut/p0005_cuws-fpga-talk",
-    "documents": {}
+    "documents": {
+        "sws": {
+            "P0005-SWS-001": {
+                "name": "Blinky",
+                "description": "Basic Hello World blinky light",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            }
+        }
+    }
 }
