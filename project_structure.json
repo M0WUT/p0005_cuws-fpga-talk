@@ -35,6 +35,13 @@
                 "description": "Scripts used to generate plots used in the presentation",
                 "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
             }
+        },
+        "p": {
+            "P0005-P-001": {
+                "name": "CUWS Talk 20261112",
+                "description": "Talk given to CUWS on 12th November 2026",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            }
         }
     }
 }
