@@ -34,6 +34,11 @@
                 "name": "Plot Generation",
                 "description": "Scripts used to generate plots used in the presentation",
                 "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            },
+            "P0005-SWS-007": {
+                "name": "WSPR Beacon",
+                "description": "Quick hacky WSPR beacon using FPGA GPIO",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
             }
         },
         "p": {
