@@ -24,6 +24,11 @@
                 "name": "Gotcha Register Swap",
                 "description": "Example showing that all lines of code are executed simultaneously using the varaibles as they were BEFORE the clock edge",
                 "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            },
+            "P0005-SWS-005": {
+                "name": "Gotcha Divider off by one",
+                "description": "Example showing off by one error when dividing clocks",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
             }
         }
     }
