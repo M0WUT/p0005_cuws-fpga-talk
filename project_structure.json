@@ -29,6 +29,11 @@
                 "name": "Gotcha Divider off by one",
                 "description": "Example showing off by one error when dividing clocks",
                 "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            },
+            "P0005-SWS-006": {
+                "name": "Plot Generation",
+                "description": "Scripts used to generate plots used in the presentation",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
             }
         }
     }

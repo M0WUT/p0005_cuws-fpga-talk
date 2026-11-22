@@ -8,3 +8,4 @@ Files for presentation to CUWS in November 2026
 | P0005-SWS-003 | Gotcha Double Increment | Demonstration that only the last assignment happens | [Link](https://github.com/m0wut/p0005_cuws-fpga-talk) |
 | P0005-SWS-004 | Gotcha Register Swap | Example showing that all lines of code are executed simultaneously using the varaibles as they were BEFORE the clock edge | [Link](https://github.com/m0wut/p0005_cuws-fpga-talk) |
 | P0005-SWS-005 | Gotcha Divider off by one | Example showing off by one error when dividing clocks | [Link](https://github.com/m0wut/p0005_cuws-fpga-talk) |
+| P0005-SWS-006 | Plot Generation | Scripts used to generate plots used in the presentation | [Link](https://github.com/m0wut/p0005_cuws-fpga-talk) |
