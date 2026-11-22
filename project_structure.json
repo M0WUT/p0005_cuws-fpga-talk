@@ -8,44 +8,44 @@
             "P0005-SWS-001": {
                 "name": "Blinky",
                 "description": "Basic Hello World blinky light",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/software_snippet/P0005-SWS-001_Blinky"
             },
             "P0005-SWS-002": {
                 "name": "8 bit Blinky",
                 "description": "Blinky lights with 8 LEDs",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/software_snippet/P0005-SWS-002_8BitBlinky"
             },
             "P0005-SWS-003": {
                 "name": "Gotcha Double Increment",
                 "description": "Demonstration that only the last assignment happens",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/software_snippet/P0005-SWS-003_GotchaDoubleIncrement"
             },
             "P0005-SWS-004": {
                 "name": "Gotcha Register Swap",
                 "description": "Example showing that all lines of code are executed simultaneously using the varaibles as they were BEFORE the clock edge",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/software_snippet/P0005-SWS-004_GotchaRegisterSwap"
             },
             "P0005-SWS-005": {
                 "name": "Gotcha Divider off by one",
                 "description": "Example showing off by one error when dividing clocks",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/software_snippet/P0005-SWS-005_GotchaDividerOffByOne"
             },
             "P0005-SWS-006": {
                 "name": "Plot Generation",
                 "description": "Scripts used to generate plots used in the presentation",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/software_snippet/P0005-SWS-006_PlotGeneration"
             },
             "P0005-SWS-007": {
                 "name": "WSPR Beacon",
                 "description": "Quick hacky WSPR beacon using FPGA GPIO",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/software_snippet/P0005-SWS-007_WsprBeacon"
             }
         },
         "p": {
             "P0005-P-001": {
                 "name": "CUWS Talk 20261112",
                 "description": "Talk given to CUWS on 12th November 2026",
-                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+                "url": "https://github.com/M0WUT/p0005_cuws-fpga-talk/tree/main/presentation/P0005-P-001_CuwsTalk20261112"
             }
         }
     }
