@@ -9,6 +9,11 @@
                 "name": "Blinky",
                 "description": "Basic Hello World blinky light",
                 "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            },
+            "P0005-SWS-002": {
+                "name": "8 bit Blinky",
+                "description": "Blinky lights with 8 LEDs",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
             }
         }
     }

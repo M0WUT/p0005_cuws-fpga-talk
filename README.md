@@ -4,3 +4,4 @@ Files for presentation to CUWS in November 2026
 | Reference | Name | Description | URL |
 | --- | --- | --- | --- |
 | P0005-SWS-001 | Blinky | Basic Hello World blinky light | [Link](https://github.com/m0wut/p0005_cuws-fpga-talk) |
+| P0005-SWS-002 | 8 bit Blinky | Blinky lights with 8 LEDs | [Link](https://github.com/m0wut/p0005_cuws-fpga-talk) |
