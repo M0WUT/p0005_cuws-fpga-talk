@@ -14,6 +14,11 @@
                 "name": "8 bit Blinky",
                 "description": "Blinky lights with 8 LEDs",
                 "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            },
+            "P0005-SWS-003": {
+                "name": "Gotcha Double Increment",
+                "description": "Demonstration that only the last assignment happens",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
             }
         }
     }
