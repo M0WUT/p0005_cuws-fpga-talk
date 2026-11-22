@@ -1,0 +1,16 @@
+# This file defines the mapping of the FPGA pin number to 
+# signal names as used in main.v. We included here only the
+# signals that actually used by this example.
+
+set_io led[0] 9
+set_io led[1] 4
+set_io led[2] 2
+set_io led[3] 47
+set_io led[4] 10
+set_io led[5] 6
+set_io led[6] 3
+set_io led[7] 48
+
+
+set_io CLK  35  # input
+

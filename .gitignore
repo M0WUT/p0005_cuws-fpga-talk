@@ -3,3 +3,4 @@ libraries
 pcb
 rtl
 software
+**/.venv
