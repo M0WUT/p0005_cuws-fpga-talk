@@ -19,6 +19,11 @@
                 "name": "Gotcha Double Increment",
                 "description": "Demonstration that only the last assignment happens",
                 "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
+            },
+            "P0005-SWS-004": {
+                "name": "Gotcha Register Swap",
+                "description": "Example showing that all lines of code are executed simultaneously using the varaibles as they were BEFORE the clock edge",
+                "url": "https://github.com/m0wut/p0005_cuws-fpga-talk"
             }
         }
     }
